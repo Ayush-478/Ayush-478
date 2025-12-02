@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,express,mongodb,mysql,ts,regex,github,git,neovim,postgres,py,supabase,linux,aws,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Now Learning](https://skillicons.dev/icons?i=aws,azure,rust)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
