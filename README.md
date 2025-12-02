@@ -26,7 +26,7 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,express,mongodb,mysql,ts,regex,github,git,neovim,postgres,py,supabase,linux,aws,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,express,mongodb,mysql,ts,regex,github,git,neovim,postgres,py,supabase,linux,aws,cs,dotnet,html,css,bootstrap)](https://skillicons.dev)
 
 ### Studying
 [![Now Learning](https://skillicons.dev/icons?i=aws,azure,rust)](https://skillicons.dev)
